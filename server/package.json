@@ -5,9 +5,15 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+<<<<<<< HEAD
     "start": "nodemon src/server.js"
   },
 
+=======
+    "start": "server.js"
+  },
+,  
+>>>>>>> a45fe440f1ee4e8f49903215dd4d94c40bb8066d
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
